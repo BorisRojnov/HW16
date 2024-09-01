@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    static final String VALID_TEXT = "([A-z]+\\s)";
-    static final String PUNCTUATION_MARKS = "[.,!?;:\"\"'']";
+    static final String PUNCTUATION_MARKS = "[.,!?;:\"']";
     public static void main(String[] args) {
         //todo  код
         System.out.println("Введите английский текст: ");
